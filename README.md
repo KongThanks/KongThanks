@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="500" width="1200" src="https://media4.giphy.com/media/eFvs5iE6a6ntVIRaEN/giphy.gif"  />
+    <img height="400" width="1200" src="https://media3.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif"  />
 </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
