@@ -18,8 +18,6 @@
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-key.png" alt="c-key"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/android-os.png" alt="android-os"/>
 </div>
 
 ###
